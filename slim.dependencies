@@ -1,0 +1,9 @@
+[
+
+  {
+    "repository": "SlimRoms/kernel_google_sprout",
+    "target_path": "kernel/google/sprout",
+    "branch": "kk4.4"
+  }
+ 
+]
